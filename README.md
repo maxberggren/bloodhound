@@ -4,7 +4,7 @@ Scrapes websites for newly published articles and asks an LLM for their breaking
 
 ## Prerequsites
 
-* [Poetry](https://duckduckgo.com)https://python-poetry.org/)
+* [Poetry](https://python-poetry.org/)
 
 ## Installation
 
