@@ -4,6 +4,7 @@ Scrapes websites for newly published articles and asks an LLM for their breaking
 
 ## Prerequsites
 
+* Python 3.8+
 * [Poetry](https://python-poetry.org/)
 
 ## Installation
