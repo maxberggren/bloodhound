@@ -1,0 +1,21 @@
+[tool.poetry]
+name = "bloodhound"
+version = "0.1.0"
+description = ""
+authors = ["Max Berggren <maxberggren@gmail.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.11"
+json5 = "^0.9.14"
+requests = "^2.31.0"
+scrapy = "^2.11.0"
+openai = "^0.28.1"
+tld = "^0.13"
+rich = "^13.6.0"
+scrapydo = "^0.2.2"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
